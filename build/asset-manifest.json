@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/escrow-web/static/css/main.a617e044.chunk.css",
-    "main.js": "/escrow-web/static/js/main.89d38777.chunk.js",
-    "main.js.map": "/escrow-web/static/js/main.89d38777.chunk.js.map",
-    "runtime-main.js": "/escrow-web/static/js/runtime-main.387b8b2b.js",
-    "runtime-main.js.map": "/escrow-web/static/js/runtime-main.387b8b2b.js.map",
-    "static/css/2.8c0e6b67.chunk.css": "/escrow-web/static/css/2.8c0e6b67.chunk.css",
-    "static/js/2.b90cf2ef.chunk.js": "/escrow-web/static/js/2.b90cf2ef.chunk.js",
-    "static/js/2.b90cf2ef.chunk.js.map": "/escrow-web/static/js/2.b90cf2ef.chunk.js.map",
-    "static/js/3.e6bc5705.chunk.js": "/escrow-web/static/js/3.e6bc5705.chunk.js",
-    "static/js/3.e6bc5705.chunk.js.map": "/escrow-web/static/js/3.e6bc5705.chunk.js.map",
-    "index.html": "/escrow-web/index.html",
-    "static/css/2.8c0e6b67.chunk.css.map": "/escrow-web/static/css/2.8c0e6b67.chunk.css.map",
-    "static/css/main.a617e044.chunk.css.map": "/escrow-web/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.b90cf2ef.chunk.js.LICENSE.txt": "/escrow-web/static/js/2.b90cf2ef.chunk.js.LICENSE.txt"
+    "main.css": "/Escrow-Web/static/css/main.a617e044.chunk.css",
+    "main.js": "/Escrow-Web/static/js/main.89d38777.chunk.js",
+    "main.js.map": "/Escrow-Web/static/js/main.89d38777.chunk.js.map",
+    "runtime-main.js": "/Escrow-Web/static/js/runtime-main.676435f7.js",
+    "runtime-main.js.map": "/Escrow-Web/static/js/runtime-main.676435f7.js.map",
+    "static/css/2.8c0e6b67.chunk.css": "/Escrow-Web/static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.dd5d96c9.chunk.js": "/Escrow-Web/static/js/2.dd5d96c9.chunk.js",
+    "static/js/2.dd5d96c9.chunk.js.map": "/Escrow-Web/static/js/2.dd5d96c9.chunk.js.map",
+    "static/js/3.e6bc5705.chunk.js": "/Escrow-Web/static/js/3.e6bc5705.chunk.js",
+    "static/js/3.e6bc5705.chunk.js.map": "/Escrow-Web/static/js/3.e6bc5705.chunk.js.map",
+    "index.html": "/Escrow-Web/index.html",
+    "static/css/2.8c0e6b67.chunk.css.map": "/Escrow-Web/static/css/2.8c0e6b67.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/Escrow-Web/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.dd5d96c9.chunk.js.LICENSE.txt": "/Escrow-Web/static/js/2.dd5d96c9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.387b8b2b.js",
+    "static/js/runtime-main.676435f7.js",
     "static/css/2.8c0e6b67.chunk.css",
-    "static/js/2.b90cf2ef.chunk.js",
+    "static/js/2.dd5d96c9.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.89d38777.chunk.js"
   ]

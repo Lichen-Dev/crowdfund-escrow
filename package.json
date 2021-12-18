@@ -1,5 +1,5 @@
 {
-  "homepage": "http://lichen-dev.github.io/escrow-web",
+  
   "name": "eth-todo",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +13,7 @@
     "react-bootstrap": "^2.0.3",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "serve": "^13.0.2",
     "web-vitals": "^1.1.2",
     "web3": "^1.6.1"
   },
