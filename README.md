@@ -1,3 +1,17 @@
+#
+
+A simple blockchain version of kickstarter. Users fund projects, and then vote to release said funds in rounds that the proposer pre-specifies. The smart contract is currently deployed on the Kovan testnet and all funding happens using (kovan)DAI.
+
+a web interface is hosted at http://134.122.25.216/
+
+and the github is https://github.com/Lichen-Dev/crowdfund-escrow
+
+You can get testnet ether at https://faucets.chain.link/
+
+and testnet dai at Oasis.app/?network=kovan
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
