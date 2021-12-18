@@ -8,8 +8,7 @@ and the github is https://github.com/Lichen-Dev/crowdfund-escrow
 
 You can get testnet ether at https://faucets.chain.link/
 
-and testnet dai at Oasis.app/?network=kovan 
-
+and testnet dai at https://oasis.app/?network=kovan 
 
 
 # Getting Started with Create React App
