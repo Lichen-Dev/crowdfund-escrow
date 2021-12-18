@@ -12,6 +12,9 @@ class App extends Component{
 
   async loadBlockchainData(){
     const web3 = new Web3(Web3.givenProvider || "http://localhost:3000")
+    window.web3 = new Web3(window.ethereum);
+    await window.ethereum.enable();
+
     const network = await web3.eth.net.getNetworkType()
     console.log("network", network)
     const accounts = await web3.eth.getAccounts()
