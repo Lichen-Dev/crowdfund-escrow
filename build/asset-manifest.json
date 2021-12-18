@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/escrow-web/static/css/main.a617e044.chunk.css",
+    "main.js": "/escrow-web/static/js/main.89d38777.chunk.js",
+    "main.js.map": "/escrow-web/static/js/main.89d38777.chunk.js.map",
+    "runtime-main.js": "/escrow-web/static/js/runtime-main.387b8b2b.js",
+    "runtime-main.js.map": "/escrow-web/static/js/runtime-main.387b8b2b.js.map",
+    "static/css/2.8c0e6b67.chunk.css": "/escrow-web/static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.b90cf2ef.chunk.js": "/escrow-web/static/js/2.b90cf2ef.chunk.js",
+    "static/js/2.b90cf2ef.chunk.js.map": "/escrow-web/static/js/2.b90cf2ef.chunk.js.map",
+    "static/js/3.e6bc5705.chunk.js": "/escrow-web/static/js/3.e6bc5705.chunk.js",
+    "static/js/3.e6bc5705.chunk.js.map": "/escrow-web/static/js/3.e6bc5705.chunk.js.map",
+    "index.html": "/escrow-web/index.html",
+    "static/css/2.8c0e6b67.chunk.css.map": "/escrow-web/static/css/2.8c0e6b67.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/escrow-web/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.b90cf2ef.chunk.js.LICENSE.txt": "/escrow-web/static/js/2.b90cf2ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.387b8b2b.js",
+    "static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.b90cf2ef.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.89d38777.chunk.js"
+  ]
+}
