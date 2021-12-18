@@ -1,6 +1,6 @@
 # crowdfund-escrow
 
-A simple blockchain version of kickstarter. Users fund projects, and then vote to release said funds in rounds that the proposer pre-specifies. The smart contract is currently deployed on the Kovan testnet and all funding happens using (kovan)DAI.
+A simple blockchain version of kickstarter. Users fund projects, and then vote to release said funds in rounds that the proposer pre-specifies. The smart contract is currently deployed on the Kovan testnet and all funding happens using (kovan)DAI. You will need to have metamask set to the Kovan network to interact with the smart contract.
 
 a web interface is hosted at http://134.122.25.216/
 
