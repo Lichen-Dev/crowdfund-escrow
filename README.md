@@ -4,8 +4,6 @@ A simple blockchain version of kickstarter. Users fund projects, and then vote t
 
 a web interface is hosted at http://134.122.25.216/
 
-and the github is https://github.com/Lichen-Dev/crowdfund-escrow
-
 You can get testnet ether at https://faucets.chain.link/
 
 and testnet dai at https://oasis.app/?network=kovan 
