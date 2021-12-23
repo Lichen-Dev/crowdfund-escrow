@@ -17,7 +17,7 @@ pragma solidity ^0.8.10;
 contract EscrowSystemDAI {
 
 constructor()  public{
-        daitoken = DaiToken(0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa);
+        daitoken = DaiToken(0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1);
     }
 DaiToken daitoken;
 
